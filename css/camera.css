@@ -1,0 +1,67 @@
+.gallery
+{
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+.galbox
+{
+  height: 210px;
+  width: 210px;
+  float: left;
+}
+.selectfile
+{
+    background-color:none;
+    width: 600px;
+    height: 300px;
+    margin-left: 10px;
+}
+.upload
+{
+    height: 20px;
+    border: none;
+    border-radius: 0;
+}
+.preview
+{
+    height: 250px;
+    width: 400px;
+    margin-top: 10px;
+}
+.filter
+{
+    height: 120px;
+    width: 120px;
+    border: none;
+    background-color: white;
+    float: left;
+    margin-left: 10px;
+}
+.filter2
+{
+    height: 100px;
+    width: 100px;
+    border: none;
+    background-color: white;
+    float: left;
+    margin-left: 10px;
+}
+canvas
+{
+    height: 250px;
+    width: 400px;
+    margin-top: 10px;
+}
+
+.footer
+{
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #008080;
+   text-align: center;
+}

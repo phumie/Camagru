@@ -1,0 +1,95 @@
+.selfiebutton
+{
+    height: 25px;
+    width: 100px;
+    margin-left: 10px;
+    background-color: #C1666B;
+    color: white;
+    border: none;
+    float: left;
+}
+video 
+{
+    margin-left: 10px;
+    height: 100px;
+    width: 150px;
+    float: left;
+}
+canvas
+{
+    height: 380px;
+    width: 660px;
+    margin-top: 5px;
+    margin-left: 10px;
+    float: left;
+
+}
+.canvas
+{
+    background-color: white;
+    height: 550px;
+    width: 680px;
+    margin-left: 10px;
+    margin-top: 10px;
+    /* position: absolute; */
+    float: left; 
+}
+.filters
+{
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 350px;
+    width: 1380px;
+    background-color: white;
+    float: left;
+}
+.filter
+{
+    margin-left: 10px;
+    margin-top: 50px;
+    height: 200px;
+    width: 180px;
+}
+p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4281A4;
+}
+.footer
+{
+    position: fixed;
+    float: left;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #C9E2EE;
+   text-align: center;
+   color: grey;
+}
+.mini_gallery
+{
+    position: fixed;
+    margin-top: 3px;
+    margin-left: 5px;
+    width: 400px;
+    height: 90%;
+    /* overflow-y: auto; */
+    overflow: scroll;
+    background: #E7B6B6;
+}
+.snap_upload
+{
+    margin-left: 410px;
+    /* margin-top: 3px; */
+    background: #f0f8ff;
+    height: 88%;
+    /* width: 90%; */
+    width: 1420px;
+}
+.thumbnail
+{
+    height: 100px;
+    width: 100px;
+    margin-top: 30px;
+    padding: 10px;
+}
